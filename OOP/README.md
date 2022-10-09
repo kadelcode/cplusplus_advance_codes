@@ -1,0 +1,13 @@
+# OOP(Object Oriented Programming)
+-   Some concepts in object oriented programming
+    - Class and Objects
+    - Encapsulation and Abstraction
+    - Polymorphism and Inheritance
+    - Dynamic Binding
+    - Message Passing
+    - Constructor and Destructor
+    - Friend Function
+    - Inheritance
+    - Function Overloading
+    - Operator Overloading
+    - Virtual Function
