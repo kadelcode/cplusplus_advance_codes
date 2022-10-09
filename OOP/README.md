@@ -1,5 +1,5 @@
 # OOP(Object Oriented Programming)
--   Some concepts in object oriented programming
+##   Some concepts in object oriented programming
     - Class and Objects
     - Encapsulation and Abstraction
     - Polymorphism and Inheritance
@@ -11,3 +11,7 @@
     - Function Overloading
     - Operator Overloading
     - Virtual Function
+
+### Class and Objects
+-   A class is a user-defined data-type which has data members and member functions. It's a blue-print of a group of objects which shares some common properties and behaviours.
+-   An object is an instance of a class
